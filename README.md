@@ -10,6 +10,9 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
+<br />
+<br />
+
 - 🔭 I’m currently working on ....
 - 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me: admin@innocents.eu
